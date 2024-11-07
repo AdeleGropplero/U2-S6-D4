@@ -5,4 +5,4 @@ $custom-font-sizes: (
   10: $h10-font-size,
 );
 
-$font-sizse: map-merge($font-sizes, $custom-font-sizes);
+$font-sizes: map-merge($font-sizes, $custom-font-sizes);
